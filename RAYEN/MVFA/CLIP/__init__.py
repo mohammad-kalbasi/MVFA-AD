@@ -1,0 +1,2 @@
+# CLIP submodule package
+
